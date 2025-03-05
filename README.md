@@ -1,2 +1,4 @@
-# Tentando aprender mais sobre o git
+# Tentando aprender mais sobre o git !
  Fazendo mais um "primeiro" repositório
+
+Agora vai kkk
